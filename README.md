@@ -1,4 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josaloroc&count_private=true&theme=calm)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josaloroc)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **josaloroc/josaloroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
