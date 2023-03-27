@@ -1,21 +1,4 @@
 
-<h1 align="center">Hi 👋, I'm José Luis</h1>
-<h3 align="center">A passionate student interested in data science and machine learning from Seville!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josaloroc&label=Profile%20views&color=0e75b6&style=flat" alt="josaloroc" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josaloroc" alt="josaloroc" /></a> </p>
-
-- 🔭 I’m currently working on **helping with research**
-
-- 🌱 I’m currently studying **Master Cloud, Datos, Gestión TI**
-
-- 📫 How to reach me **josaloroc@alum.us.es**
-
-- ⚡ Fun fact **Sometimes i spend time in "el XIV"**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
